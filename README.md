@@ -56,3 +56,6 @@
 ![](https://komarev.com/ghpvc/?username=Ceterai&color=2080f0&label=EYES&style=for-the-badge)
 
 </div>
+<div align="center">
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/Ceterai"/>  
+</div>
