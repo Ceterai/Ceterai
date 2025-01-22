@@ -39,8 +39,20 @@
 
 </details>
 
-<h2 align="center"><b>CREDITS</b></h2>
+<h2 align="center"><b>Other</b></h2>
 
 <div align="center">
-<a class="ct_button" href="/art/">Artwork</a>
+<a class="ct_button" href="https://ceterai.github.io/art/">Artwork Credits</a>
+</div>
+<div align="center">
+<a class="ct_button" href="https://about.me/ceterai">About Me</a>
+</div>
+<div align="center">
+<a class="ct_button" href="https://mynickname.com/ceterai">Nickname</a>
+</div>
+<br>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Ceterai&color=2080f0&label=EYES&style=for-the-badge)
+
 </div>
